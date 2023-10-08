@@ -30,6 +30,6 @@ Also analyse, if the spending habits differ between male and female customers: D
 * Results when the same activity is performed for Married vs Unmarried
 * Results when the same activity is performed for Age
 
-  **Outcomes**
+**Outcomes**
 
 I offered over eight insights derived from this dataset and provided recommendations for better performance.
